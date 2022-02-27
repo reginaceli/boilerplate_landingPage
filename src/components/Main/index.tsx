@@ -9,8 +9,8 @@ const Main = () => (
         <Image
           src="/img/logo-page.png"
           alt="logo reg3x digital"
-          width={105}
-          height={65}
+          width={95}
+          height={40}
           quality={80}
           objectFit="contain"
         />
@@ -28,7 +28,7 @@ const Main = () => (
           src="/img/contact_us.jpg"
           alt="imagem que mostra icones de contato"
           width={365}
-          height={190}
+          height={180}
           quality={80}
         />
       </S.Contact>
