@@ -16,8 +16,8 @@ const GlobalStyle = createGlobalStyle`
     font-family: -apple-system, BlinkMacSystemFont, Fira Sans, Oxygen,
     Ubuntu, Cantarell,sans-serif;
     background-color: #f7fafb;
-    height: 100vh;
-  }
+    height: 100vh;}
+
 
   a {
     color: inherit;
